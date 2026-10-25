@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://booooolut.github.io/roslyny/sitemap.xml
